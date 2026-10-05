@@ -30,7 +30,15 @@ O projeto aborda temas como:
 - 🛡️ Segurança automotiva
 - 🎓 O futuro da Engenharia Mecânica
 
-### 📄 E-book
+## 🛠️ Ferramentas de apoio
+
+As seguintes ferramentas foram utilizadas como apoio no desenvolvimento deste projeto:
+
+- 🤖 **ChatGPT** — utilizado como apoio na elaboração e revisão dos textos, organização das ideias e criação das imagens utilizadas no eBook.
+- 📊 **Microsoft PowerPoint** — utilizado para a organização, diagramação, edição e composição visual do eBook.
+- 🐙 **GitHub** — utilizado para armazenamento, organização e disponibilização do projeto e do eBook.
+
+A utilização da Inteligência Artificial ocorreu como ferramenta de apoio ao processo criativo e acadêmico, enquanto as decisões de conteúdo, seleção dos temas, organização, revisão e composição final foram realizadas pelo autor.### 📄 E-book
 
 [📥 Acessar o e-book](./Ebook_Velocidade_EXE_F1_Carros_e_IA.pdf)
 
