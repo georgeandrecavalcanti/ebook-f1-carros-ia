@@ -3,6 +3,8 @@ E-book acadêmico sobre Fórmula 1, carros e Inteligência Artificial.
 
 # 🏎️ Velocidade.EXE — Hackeando a Velocidade
 
+![Velocidade.EXE — F1, Porsche e IA](./banner-github.png)
+
 ## F1, Carros Esportivos & Inteligência Artificial
 
 E-book acadêmico que explora a relação entre Fórmula 1,
