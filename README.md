@@ -34,9 +34,9 @@ O projeto aborda temas como:
 
 As seguintes ferramentas foram utilizadas como apoio no desenvolvimento deste projeto:
 
-- 🤖 **ChatGPT** — utilizado como apoio na elaboração e revisão dos textos, organização das ideias e criação das imagens utilizadas no eBook.
-- 📊 **Microsoft PowerPoint** — utilizado para a organização, diagramação, edição e composição visual do eBook.
-- 🐙 **GitHub** — utilizado para armazenamento, organização e disponibilização do projeto e do eBook.
+- 🤖 **ChatGPT** — apoio na elaboração e revisão dos textos, organização das ideias e criação das imagens.
+- 📊 **Microsoft PowerPoint** — organização, edição, diagramação e composição visual do eBook.
+- 🐙 **GitHub** — armazenamento, organização e disponibilização do projeto e do eBook.
 
 ### 📄 E-book
 
